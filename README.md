@@ -1,0 +1,2 @@
+# ruleta
+Cvičení: Podmínky
